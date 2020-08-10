@@ -29,12 +29,6 @@ class _ProductDescScreenState extends State<ProductDescScreen> {
         mainAxisAlignment: MainAxisAlignment.start,
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          // Container(
-          //   decoration: BoxDecoration(
-          //       image: DecorationImage(
-          //           image: NetworkImage(
-          //               "https://static1.lenskart.com/media/desktop/img/14-June-20/599icon.jpg"))),
-          // ),
           Center(
             child: SizedBox(
               height: MediaQuery.of(context).size.height / 4,
