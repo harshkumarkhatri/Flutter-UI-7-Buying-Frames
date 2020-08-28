@@ -1,6 +1,15 @@
 # flutter_ui_7_buying_frames
 
-This is another Flutter UI which i created.
+This is another Flutter UI which i created.<br>
+This UI is a part of a series of UI's i am building. Check other UI's clicking the link below
+* [Flutter UI 1 Login UI](https://github.com/harshkumarkhatri/Flutter-UI-1-Login-UI)
+* [Flutter UI 2 Product Showcase UI](https://github.com/harshkumarkhatri/Product-Showcase-UI-Flutter)
+* [Flutter UI 3 Find Your Inspiration](https://github.com/harshkumarkhatri/Flutter-UI-3-Find-your-inspiration)
+* [Flutter UI 4 Looking for Places](https://github.com/harshkumarkhatri/Flutter-UI-4-Looking-for-Places)
+* [Flutter UI 5 Food Delivery UI](https://github.com/harshkumarkhatri/Flutter-UI-5-Food-delivery-app)
+* [Flutter UI 6 Actor Profile UI](https://github.com/harshkumarkhatri/Flutter-UI-6-Actor-Profiles-App)
+* [Flutter UI 7 Buying Frames UI](https://github.com/harshkumarkhatri/Flutter-UI-7-Buying-Frames)
+
 **About the UI**:-<br>
 This is a UI based on an online store basically for showcasing products to users and delivering an easy solution of buying them with their phone.
 <br>
